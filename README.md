@@ -3,12 +3,14 @@
 My name is Xavier Geerinck and I focus on sharing my learnings in the AI, RL, IoT and App Development spaces with developers and data scientist!
 
 My recent work and projects:
+* [Composabl](https://composabl.com)
 * [Out-Scaled RL Cluster](https://github.com/roadwork/roadwork-rl) training large scale Reinforcement Learning experiments
 * [Automatically scaling Kubernetes Deployments](https://xaviergeerinck.com/post/infrastructure/kubernetes-auto-scaling-http/)
 * [Roadwork](https://roadwork.io)
 * [Scraper.AI](https://scraper.ai)
 
 The projects and technologies I am currently "hyped" about:
+* [Composabl](https://composabl.com)
 * [Dapr](https://dapr.io)
 * [Facebook ReAgent](https://github.com/facebookresearch/ReAgent)
 
